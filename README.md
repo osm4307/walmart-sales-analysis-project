@@ -73,7 +73,7 @@ This project is an end-to-end data analysis solution designed to extract critica
      - Q12. What are the bottom 10 branches and categories with low ratings? Objective: Identify branches or products with service quality issues.
      - Q13. What is the proportion of payment methods used within each product category? Objective: Identify customer payment preferences based on product type.
 
-  ### 10. Visualizing for Power BI
+  ### 10. Visualizing for Power BI - [Walmart Sales Analysis](https://github.com/osm4307/walmart-sales-analysis-project/blob/main/walmart_sales_analysis.png)
    - Loaded the necessary queries for visualization and created the visualizations in Power BI.
 
 
@@ -101,17 +101,6 @@ This project is an end-to-end data analysis solution designed to extract critica
    ```
 3. Set up my Kaggle API, download the data, and follow the steps to load and analyze.
 
----
-
-## Project Structure
-
-```plaintext
-|-- data/                     # Raw data and transformed data
-|-- sql/                      # SQL scripts for analysis and queries
-|-- notebooks/                # Jupyter notebooks for Python analysis
-|-- README.md                 # Project documentation
-|-- main.py                   # Main script for loading, cleaning, and processing data
-```
 ---
 
 ## Results and Insights
