@@ -75,6 +75,10 @@ This project is an end-to-end data analysis solution designed to extract critica
 
   ### 10. Visualizing for Power BI
    - Loaded the necessary queries for visualization and created the visualizations in Power BI.
+
+
+#### I referred to the project from this [Link](https://github.com/najirh/Walmart_SQL_Python/blob/main/README.md), but I personally created the queries for Q10 to Q13 in MySQL and also built the corresponding visualizations in Power BI on my own.
+Thanks to Najir H
 ---
 
 ## Requirements
@@ -121,8 +125,3 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## License
 
 This project is licensed under the MIT License. 
-
----
-
-I referred to the project from this [Link](https://github.com/najirh/Walmart_SQL_Python/blob/main/README.md), but I personally created the queries for Q10 to Q13 in MySQL and also built the corresponding visualizations in Power BI on my own.
-Thanks to Najir H
