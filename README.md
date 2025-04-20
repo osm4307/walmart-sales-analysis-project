@@ -107,7 +107,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ```plaintext
 |-- data/                     # Raw data and transformed data
-|-- sql_queries/              # SQL scripts for analysis and queries
+|-- sql/                      # SQL scripts for analysis and queries
 |-- notebooks/                # Jupyter notebooks for Python analysis
 |-- README.md                 # Project documentation
 |-- main.py                   # Main script for loading, cleaning, and processing data
